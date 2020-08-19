@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "full_name": "Văn Ngọc Dung",
+      "user_name": "vanngocdung",
+      "password": "admin123",
+      "email": "ngocdung662000@gmail.com",
+      "phonenumber": "0388381009",
+      "address": "Nghệ An",
+      "is_active": 1
+    },
+    {
+      "id": 2,
+      "full_name": "Trần Xuân Trung",
+      "user_name": "tranxuantrung",
+      "password": "user123",
+      "email": "trungtxph07227@fpt.edu.vn",
+      "phonenumber": "0976985524",
+      "address": "Tuyên Quang",
+      "is_active": 2
+    }
+  ]
+}
